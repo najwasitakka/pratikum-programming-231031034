@@ -7,3 +7,5 @@
 <h1>Prodi: Sistem Informasi</h1>
 
 * Pratikum 1: Pengenalan Variabel `pratikum-c6-py`
+* Pratikum 2: Pengenalan Variabel `pratikum-c6-py`
+ 
