@@ -6,4 +6,4 @@
 <h1>NIM: 231031034</h1>
 <h1>Prodi: Sistem Informasi</h1>
 
-*Pratikum 1: Pengenalan Variabel `pratikum-b1-py`
+* Pratikum 1: Pengenalan Variabel `pratikum-c6-py`
